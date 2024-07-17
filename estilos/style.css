@@ -47,11 +47,11 @@ iframe#tela{
 
 }
 section#reides-sociais{
-    text-align: center;
+    text-align: right;
 }
 
 section#reides-sociais img{
-    width: 50px;
+    width: 27px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.404);
