@@ -42,3 +42,19 @@ iframe#tela{
     height:480px;
 
 }
+section#reides-sociais{
+    text-align: right;
+}
+
+section#reides-sociais img{
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.322);
+    box-sizing: border-box;
+
+}
+section#reides-sociais img:hover{
+    border: 2px solid rgba(255, 255, 255, 0.603);
+    
+}
