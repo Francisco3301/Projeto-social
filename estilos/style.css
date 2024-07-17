@@ -31,7 +31,10 @@ section#telefone{
     transform: translate(-50%, -50%);
     height: 627px;
     width: 311px;
-    background: url(../pacote-d013/imagens/frame-iphone.png) no-repeat;
+    background: url(../pacote-d013/imagens/frame-iphone.png) no-repeat ;
+    
+
+  
 
 }
 
@@ -44,11 +47,11 @@ iframe#tela{
 
 }
 section#reides-sociais{
-    text-align: right;
+    text-align: center;
 }
 
 section#reides-sociais img{
-    width: 30px;
+    width: 50px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.404);
